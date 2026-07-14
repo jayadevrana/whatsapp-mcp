@@ -1,0 +1,6 @@
+bridge/store/
+bridge/whatsapp-bridge
+context/
+server/.venv/
+__pycache__/
+*.pyc
